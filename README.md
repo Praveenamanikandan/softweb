@@ -733,10 +733,12 @@ border:2px solid white;
 
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-15 191041.png>)
-![Alt text](<Screenshot 2023-12-15 191109.png>)
-![Alt text](<Screenshot 2023-12-15 191121.png>)
-![Alt text](<Screenshot 2023-12-15 191130.png>)
-![Alt text](<Screenshot 2023-12-15 191139.png>)
+![Screenshot 2023-12-15 191041](https://github.com/Praveenamanikandan/softweb/assets/144870776/2065ae19-b9c5-4e2a-b808-520f9c7c86bb)
+![Screenshot 2023-12-15 191109](https://github.com/Praveenamanikandan/softweb/assets/144870776/dda3b4bd-d4f8-4b81-ab70-f314e14173f8)
+![Screenshot 2023-12-15 191121](https://github.com/Praveenamanikandan/softweb/assets/144870776/de6b5781-5a4e-466d-a3de-79b5265d39d8)
+![Screenshot 2023-12-15 191130](https://github.com/Praveenamanikandan/softweb/assets/144870776/35680c16-7cb2-42ce-840e-9627fee0c21f)
+![Screenshot 2023-12-15 191139](https://github.com/Praveenamanikandan/softweb/assets/144870776/959c3969-b5da-485c-8352-0231c74c69b6)
+
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
